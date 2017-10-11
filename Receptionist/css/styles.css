@@ -1,0 +1,6 @@
+ul#patientdetails>li>p{
+	font-size: 25px;
+}
+ul#patientdetails>li>p>img.thumbnail{
+	margin: 0px auto;
+}
